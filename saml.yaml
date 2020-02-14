@@ -23,3 +23,6 @@ Resources:
                 Properties:
                   Path: /sam
                   Method: get
+            AutoPublishAlias: blue
+            DeploymentPreference:
+              Type: AllAtOnce
